@@ -1,0 +1,4 @@
+map_name: NGE
+games:
+- {game_name: Nova Games Edition, file_name: nge.xml}
+version: 0
